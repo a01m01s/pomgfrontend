@@ -1,3 +1,4 @@
 # pomgfrontend
-<hr>
-![image](screenshot.png)
+
+
+![](/screenshot.png)
