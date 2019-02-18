@@ -1,0 +1,82 @@
+/* general */
+
+body{
+  overflow-x: hidden;
+}
+
+/* backgrounds */
+.bg-header{
+  background: url("img/header.jpg"); /* The image used */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+}
+
+.bg-music1{
+  background: url("img/music1.png"); /* The image used */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+}
+.bg-music2{
+  background: url("img/music2.jpg"); /* The image used */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+}
+.bg-music3{
+  background: url("img/music3.jpg"); /* The image used */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+}
+.bg-music4{
+  background: url("img/music4.jpg"); /* The image used */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+}
+
+.bg-header2{
+  background: url("img/header2.jpg"); /* The image used */
+  background-position: center; /* Center the image */
+  background-repeat: no-repeat; /* Do not repeat the image */
+  background-size: cover;
+}
+.bg-rgba{
+  background: rgb(20, 2, 21 , 0.8);
+}
+/* customize */
+.my-shadow{
+  text-shadow: 1px 1px  	#D3D3D3;
+}
+
+.header-font{
+  color:pink;
+  font-family: 'Pacifico', cursive;
+}
+.nav-link:hover{
+  color:#FF1493!important;
+}
+.btn-pink {
+  color: 	#FFC0CB;
+  background-color: 	#FF1493;
+  border-color: 	#FF1493;
+}
+.btn-pink:hover {
+  color: #FF1493;
+  background-color: #FFC0CB;
+  border-color: #FFB6C1;
+}
+.my-border{
+  border-bottom: 0.4rem solid #FFC0CB!important;
+}
+.my-border:hover{
+  border-bottom: 0.4rem solid #FFB6C1!important;
+}
+.more-link{
+  color:#FF69B4;
+}
+.more-link:hover{
+  color:#FFB6C1;
+}
